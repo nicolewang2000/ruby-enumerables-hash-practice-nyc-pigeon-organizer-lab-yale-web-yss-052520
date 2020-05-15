@@ -14,5 +14,9 @@ def nyc_pigeon_organizer(data)
        end 
      end
    end 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0d42f8eaa0278119afde2e8d9af4333e7b02964c
    return organized
 end
